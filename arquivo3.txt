@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 meu codigo da ramificacao secundaria.
 minha segunda linha de texto.
+=======
+meu codigo da ramificacao secundaria. agora o proximo desenvolvedor adiciona outra linha
+>>>>>>> secundaria
